@@ -1,57 +1,12 @@
-// Ha valami nem helyes vagy kiegészítenéd valamivel nyiss itt egy Issue-t.
+*Ha valami nem helyes vagy kiegészítenéd valamivel nyiss itt egy Issue-t.*
 
-1. [[Interactive Brokers TBSZ számlanyitás]]
-
-
-
-## USA kettős adóztatást elkerülő egyezmény beállítás
-
-Válaszd ki, hogy az USA kettős adóztatást elkerülő egyezmény már nem vonatkozik ránk.
+[1_nyitas](1_nyitas.md)
+[2_kettos_adoztatas](2_kettos_adoztatas.md)
 
 
-Settings / Profile Information
 
-![](images/image23.png)
 
-![](images/image6.png)
 
-![](images/image12.png)
-
-Continue, Continue, Continue
-
-![](images/image1.png)
-
-Update / Save
-
-## ERSTE
-
-// Nagyságrendileg a teljes transzfer min. 1 hónapig fog tartani, van akinek több, van akinek 2 hét.
-
-1\. Legfontosabb az ügyfélkód. Ezt a jobb felső sarokban láthatod, illetve a havi számlakivonaton.
-
-2\. Javaslom letölteni az utolsó számlakivonat PDF-et az Információ / Archív dokumentumok menü alól. A kezdő dátumot át kell írni hogy megjelenjen valami. (mentsd el: szamlakivonat.pdf)
-
-3\. IBKR-ben Transfer & Pay / Transfer Funds. Kattints a kék gombra, majd válaszd ki az egyik TBSZ alszámlát.
-
-![](images/image24.png)
-
-4\. Töltsd ki így. Fontos hogy az Erste Befektetési Zrt.\-t válaszd, és ne a bankot.
-
-![](images/image21.png)
-
-Ezt csináld meg az összes TBSZ alszámlára. Előzőleg letöltött egyenlegközlő PDF ebben segít. Next és Done.
-
-![](images/image11.png)
-
-5\. IBKR befogadó nyilatkozatok letöltése.
-
-Transfer & Pay / Transaction Status & History fül alatt kattints rá a Full Transfer - Acknowledged-ekre és egyenként nyomtasd ki őket PDF-be. (mentsd el: befogado-2020.pdf)
-
-![](images/image8.png)
-
-![](images/image9.png)
-
-Legyen minden TBSZ alszámlához egy PDF-ed.
 
 ## IB deviza beutalási adatok
 
@@ -61,7 +16,7 @@ Transfer & Pay / Transfer Funds
 ![](images/image20.png)
 
 Válaszd ki az Individual Account-ot a kék számlaválasztó gombon.
-![](images/image5.png)
+![](images/selector_button.png)
 
 ![](images/image26.png)
 
