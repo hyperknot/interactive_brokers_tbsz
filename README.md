@@ -1,8 +1,6 @@
 # Interactive Brokers TBSZ leírás / guide
 
-*Ha valami nem helyes vagy kiegészítenéd valamivel nyiss itt egy Issue-t.
-
-
+Ha valami nem helyes vagy kiegészítenéd: nyiss egy Issue-t.
 
 ## Fejezetek
 
@@ -21,4 +19,3 @@
 [7. Erste időpont foglalás és megbízási papír kitöltése](7.%20Erste%20időpont%20foglalás%20és%20megbízási%20papír%20kitöltése.md)
 
 [8. Erste fiók](8.%20Erste%20fiók.md)
-
