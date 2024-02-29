@@ -2,9 +2,12 @@
 
 *Ha valami nem helyes vagy kiegészítenéd valamivel nyiss itt egy Issue-t.*
 
-[1_nyitas](1_nyitas.md)
+[1. Interactive Brokers TBSZ számlanyitás](1.%20Interactive%20Brokers%20TBSZ%20számlanyitás.md)
+
 [2_kettos_adoztatas](2_kettos_adoztatas.md)
+
 [3_befogado_nyilatkozat](3_befogado_nyilatkozat.md)
+
 
 
 
