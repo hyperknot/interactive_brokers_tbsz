@@ -1,3 +1,5 @@
+# Interactive Brokers TBSZ leírás / guide
+
 *Ha valami nem helyes vagy kiegészítenéd valamivel nyiss itt egy Issue-t.*
 
 [1_nyitas](1_nyitas.md)
