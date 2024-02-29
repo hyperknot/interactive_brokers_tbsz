@@ -14,7 +14,7 @@
 
 1. IBKR-ben Transfer & Pay / Transfer Funds. Kattints a kék gombra, majd válaszd ki az egyik TBSZ alszámlát.
 
-	![](images/transfer_funds.png)
+	![](images/transfer_from_broker.png)
 
 2. Töltsd ki így. Fontos hogy az Erste Befektetési Zrt.-t válaszd, és ne a bankot.
 

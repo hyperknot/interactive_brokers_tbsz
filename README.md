@@ -2,52 +2,23 @@
 
 [1_nyitas](1_nyitas.md)
 [2_kettos_adoztatas](2_kettos_adoztatas.md)
+[3_befogado_nyilatkozat](3_befogado_nyilatkozat.md)
 
 
 
 
 
-
-## IB deviza beutalási adatok
-
-Kérdezd le az összes devizanemedhez az IBKR befogadó számlaszámot. Ehhez indítsd egy 1 EUR-s beutalást, majd töröld ki.
-
-Transfer & Pay / Transfer Funds
-![](images/image20.png)
-
-Válaszd ki az Individual Account-ot a kék számlaválasztó gombon.
-![](images/selector_button.png)
-
-![](images/image26.png)
-
-Deposit Funds
-
-![](images/image13.png)
-
-Use a new deposit method, majd válassz devizát, Bank Transfer/SEPA, Get Instructions
-
-![](images/image22.png)
-
-Save Bank Info: No, majd 1-1-1, végül Get Transfer Instructions
-
-![](images/image10.png)
-
-Ezeket csináld meg minden devizára és mind nyomtasd ki PDF-be. (mentsd el: deviza-EUR.pdf)
-
-![](images/image7.png)
-
-Ha ezzel mindegyik devizára megvagy, a Transfer & Pay / Transaction Status & History-ban Cancelold le az 1 EUR-s request-eket. Ezek egyébként 60 nap után maguktól is eltűnnek.
 
 ## IB befogadó adatok
 
 Kérdezd meg az IB-t a fogadó adatokról.
-![](images/image3.png)
+![](images/message_center.png)
 
-![](images/image4.png)
+![](images/new_ticket.png)
 
-![](images/image15.png)
+![](images/ticket_cat2.png)
 
-![](images/image14.png)
+![](images/ticket_cat.png)
 
 Subject: TBSZ transzfer
 
@@ -76,11 +47,11 @@ Váltsd át a devizáidat úgy, hogy minden TBSZ alszámlán csak 1 devizád 
 Alapszabály, hogy ha 920 EUR / 1000 USD felett van egy devizából akkor azt megéri megtartani, alatta megéri HUF-ra váltani. (Ez úgy jön ki, hogy 0.75%-on vált devizát az Erste, így ezek felett több lenne a váltási díj a minimum díjnál).
 
 A díjjegyzék ide vonatkozó része 2024 februárban így nézett ki:
-![](images/image18.png)
+![](images/dijjegyzek_forint.png)
 
-![](images/image16.png)
+![](images/dijjegyzek_deviza.png)
 
-Erste-n ezt a Deviza Ügyletek alatt találod, nem a Devizaváltás alatt (logikus 🙃).![](images/image19.png)
+Erste-n ezt a Deviza Ügyletek alatt találod, nem a Devizaváltás alatt (logikus 🙃).![](images/deviza_ugyletek.png)
 
 Ez után 3-4 nap szükséges ameddig a váltott devizák “Elszámolás alatti tételek”-nél 0-k lesznek. Ezt meg kell várnod a transzfer indítása előtt.
 
@@ -99,7 +70,7 @@ Másold le az alábbi Google Docs file-t (File / Make a copy) és a saját vált
 
 Kb. így néz ki:
 
-![](images/image25.png)
+![](images/megbizas_screenshot.png)
 
 Mentsd le megbizas.pdf néven
 
