@@ -19,3 +19,5 @@ Ha valami nem helyes vagy kiegészítenéd: nyiss egy Issue-t.
 [7. Erste időpont foglalás és megbízási papír kitöltése](7.%20Erste%20időpont%20foglalás%20és%20megbízási%20papír%20kitöltése.md)
 
 [8. Erste fiók](8.%20Erste%20fiók.md)
+
+[9. NAV bejelentés](9.%20NAV%20bejelentés.md)
