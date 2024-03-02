@@ -5,6 +5,7 @@ Tömören:
 - A meghívód akkor kap pénzt, ha nyitástól számított 30 napon belül legalább **10,000 USD**-nek megfelelő pénzt utalsz a számládra, és ezt 1 éven keresztül bent tartod.
 - TBSZ transzfer nem számít.
 - A beutalás után teheted egy új TBSZ-re a pénzt, nem számít hogy melyik számlán tartod.
+- A meghívó és meghívott nem élhet egy háztartásban.
 
 [Leírás honlapon](https://www.interactivebrokers.hu/hu/trading/referral-member-to-member.php)
 
