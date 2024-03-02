@@ -12,7 +12,7 @@ Ha valami nem helyes vagy kiegészítenéd: nyiss egy Issue-t.
 
 [4. IB deviza beutalási adatok](4.%20IB%20deviza%20beutalási%20adatok.md)
 
-[5. IB befogadó adatok](5.%20IB%20befogadó%20adatok.md)
+[5. IB értékpapír beutalási adatok](5.%20IB%20értékpapír%20beutalási%20adatok.md)
 
 [6. Erste deviza átváltások](6.%20Erste%20deviza%20átváltások.md)
 
