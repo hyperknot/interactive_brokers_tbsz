@@ -1,5 +1,7 @@
 # Interactive Brokers TBSZ leírás / guide
 
+Ezt az összefoglalót több hét olvasás és email-váltás után készítettem, hogy másoknak minden egy helyen legyen. Köszönöm a Prohardver [Mibe tegyem a megtakarításaimat?](https://prohardver.hu/tema/mibe_tegyem_a_megtakaritasaimat/friss.html) fórum tagjainak a sok segítségét!
+
 Ha valami nem helyes vagy kiegészítenéd: nyiss egy Issue-t.
 
 ## Fejezetek
