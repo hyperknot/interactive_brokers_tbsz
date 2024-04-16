@@ -23,3 +23,7 @@ Ha valami nem helyes vagy kiegészítenéd: nyiss egy Issue-t.
 [8. Erste fiók](8.%20Erste%20fiók.md)
 
 [9. Fiók után](9.%20Fiók%20után.md)
+
+[10. Bekerülési árak - Cost Basis felvitele](10.%20Bekerülési%20árak%20-%20Cost%20Basis%20felvitele.md)
+
+[11. NAV bejelentés](11.%20NAV%20bejelentés.md)
