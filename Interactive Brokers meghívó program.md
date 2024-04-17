@@ -1,3 +1,5 @@
+# Interactive Brokers meghívó program
+
 Az Interactive Brokersnek van egy komoly meghívó programja, amely arról szól, hogy ha meghívón keresztül indítod az Interactive Brokers regisztrációdat, akkor te is és a meghívó személy is pénzt kaptok az IB-től.
 
 Te max. **1000 USD**-t kaphatsz, a meghívó személy **200 USD**-t kap.
