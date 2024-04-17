@@ -6,24 +6,24 @@ Ha valami nem helyes vagy kiegészítenéd: nyiss egy Issue-t.
 
 ## Fejezetek
 
-[1. Interactive Brokers TBSZ számlanyitás](1.%20Interactive%20Brokers%20TBSZ%20számlanyitás.md)
+[1. Interactive Brokers TBSZ számlanyitás](ib_szamlanyitas.md)
 
-[2. USA kettős adóztatást elkerülő egyezmény beállítása](2.%20USA%20kettős%20adóztatást%20elkerülő%20egyezmény%20beállítása.md)
+[2. USA kettős adóztatást elkerülő egyezmény beállítása](usa_kettos_adoztatas.md)
 
-[3. Befogadó nyilatkozatok](3.%20Befogadó%20nyilatkozatok.md)
+[3. Befogadó nyilatkozatok](befogado_nyilatkozatok.md)
 
-[4. IB deviza beutalási adatok](4.%20IB%20deviza%20beutalási%20adatok.md)
+[4. IB deviza beutalási adatok](deviza_beutalasi_adatok.md)
 
-[5. IB értékpapír beutalási adatok](5.%20IB%20értékpapír%20beutalási%20adatok.md)
+[5. IB értékpapír beutalási adatok](ertekpapir_beutalasi_adaatok.md)
 
-[6. Erste deviza átváltások](6.%20Erste%20deviza%20átváltások.md)
+[6. Erste deviza átváltások](erste_deviza_atvaltasok.md)
 
-[7. Erste időpont foglalás és megbízási papír kitöltése](7.%20Erste%20időpont%20foglalás%20és%20megbízási%20papír%20kitöltése.md)
+[7. Erste időpont foglalás és megbízási papír kitöltése](erste_idopont.md)
 
-[8. Erste fiók](8.%20Erste%20fiók.md)
+[8. Erste fiók](erste_fiok.md)
 
-[9. Fiók után](9.%20Fiók%20után.md)
+[9. Fiók után](erste_fiok_utan.md)
 
-[10. Bekerülési árak - Cost Basis felvitele](10.%20Bekerülési%20árak%20-%20Cost%20Basis%20felvitele.md)
+[10. Bekerülési árak - Cost Basis felvitele](bekerulesi_arak.md)
 
-[11. NAV bejelentés](11.%20NAV%20bejelentés.md)
+[11. NAV bejelentés](nav_bejelentes.md)
