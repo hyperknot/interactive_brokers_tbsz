@@ -1,27 +1,29 @@
+# Nav jelentés
+
 _megj: Amennyiben még régen nyitottál IB számlát, és nem az Ireland hanem a "IBKR Central Europe"-höz tartozol, akkor ez a fejezet nem vonatkozik rád, nincsen semmi teendőd._
 
 A sikeres transzfer után az IB fog küldeni egy ilyen emailt, minden egyes TBSZ alszámlához:
 
-![](images/funding%20notice.png)
+![TBSZ nyitás értesítő e-mail](../images/funding%20notice.png)
 Ennek a sablonnak van egy kitölthető változata, itt elérhető: [IB_TBSZ_agreement_editable.pdf](sablonok/IB_TBSZ_agreement_editable.pdf) (köszönjük RoBos-nak a PH-ról hogy kitölthetővé tette).
 
 A kitöltésén egy bonyolult dolog van, az **Elhelyezett pénzösszeg: / Deposited amount**.
 Ez az Activity Statement-ből derül ki.
 (Az aláírásnál ne zavarjon a nyomtatott betű, majd később hitelesítve lesz.)
 
-![](assets/nav%20bejelento%20kep.png)
+![TBSZ bejelentő nyilatkozat](assets/nav%20bejelento%20kep.png)
 
 ## Activity Statement
 
 1. IB-n Performance and Reports / Statements.
 2. Fent kék account választóval válaszd ki az egyik TBSZ alszámládat, más ne legyen be x-elve, csak egyetlen számla!
 3. Kattints az Activity gombra
-   ![](assets/activity%20report.png)
+   ![Activity Statement menü választása](assets/activity%20report.png)
 4. Period: Year to Date és PDF letöltés
-   ![](assets/activity%20report%20PDF.png)
+   ![Activity statement letöltése](assets/activity%20report%20PDF.png)
 5. A file-t mentsd el, mondjuk "Activity Statement 2019.pdf" néven. Később majd be kell küldened a NAV-nak.
 6. A dátumot és az összeget megtalálod a **Transfers** résznél. Itt a "Total in HUF" összegeket **össze kell adnod**, és ezt kell majd beírnod.
-   ![](assets/activity%20calculate.png)
+   ![Adatok az Activity Statement-en](assets/activity%20calculate.png)
 7. Dátumhoz én a legkésőbbi dátumot írtam be, szintén innen.
 
 Ezek alapján töltsd ki a PDF-et.
@@ -39,7 +41,7 @@ Tárgy: Külföldi szolgáltatónál nyitott TBSZ bejelentése
 
 szövegnek pl:
 
-```
+```none
 Tisztelt Nemzeti Adó- és Vámhivatal!
 
 A mellékelt dokumentum alapján bejelentem az Interactive Brokers Ireland Limited (székhely: 1 D01 H7V7 Dublin, North Wall Quay 91/92, North Dock One, Írország) szolgáltatónál xxxxxxx azonosító alatt vezetett értékpapírszámlámat.
@@ -54,12 +56,12 @@ Ami fontos:
 
 - minden egyes TBSZ alszámlához külön bejelentés kell
 - minden bejelentésben legyen:
-    - szöveg
-    - sablon kitöltve PDF (hitelesítve)
-    - activity statement PDF (hitelesítve)
+  - szöveg
+  - sablon kitöltve PDF (hitelesítve)
+  - activity statement PDF (hitelesítve)
 - a csatolmányokat hitelesítsd majd a feltöltési felületen, mindegyikhez rá kell kattintani a hitelesítés gombra külön
 
-![](assets/hitelesites.png)
+![Fájlok hitelesítése](assets/hitelesites.png)
 
 ## A jövőben
 
