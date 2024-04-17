@@ -11,19 +11,19 @@ A kitöltésén egy bonyolult dolog van, az **Elhelyezett pénzösszeg: / Depo
 Ez az Activity Statement-ből derül ki.
 (Az aláírásnál ne zavarjon a nyomtatott betű, majd később hitelesítve lesz.)
 
-![TBSZ bejelentő nyilatkozat](assets/nav%20bejelento%20kep.png)
+![TBSZ bejelentő nyilatkozat](images/nav%20bejelento%20kep.png)
 
 ## Activity Statement
 
 1. IB-n Performance and Reports / Statements.
 2. Fent kék account választóval válaszd ki az egyik TBSZ alszámládat, más ne legyen be x-elve, csak egyetlen számla!
 3. Kattints az Activity gombra
-   ![Activity Statement menü választása](assets/activity%20report.png)
+   ![Activity Statement menü választása](images/activity%20report.png)
 4. Period: Year to Date és PDF letöltés
-   ![Activity statement letöltése](assets/activity%20report%20PDF.png)
+   ![Activity statement letöltése](images/activity%20report%20PDF.png)
 5. A file-t mentsd el, mondjuk "Activity Statement 2019.pdf" néven. Később majd be kell küldened a NAV-nak.
 6. A dátumot és az összeget megtalálod a **Transfers** résznél. Itt a "Total in HUF" összegeket **össze kell adnod**, és ezt kell majd beírnod.
-   ![Adatok az Activity Statement-en](assets/activity%20calculate.png)
+   ![Adatok az Activity Statement-en](images/activity%20calculate.png)
 7. Dátumhoz én a legkésőbbi dátumot írtam be, szintén innen.
 
 Ezek alapján töltsd ki a PDF-et.
@@ -61,7 +61,7 @@ Ami fontos:
   - activity statement PDF (hitelesítve)
 - a csatolmányokat hitelesítsd majd a feltöltési felületen, mindegyikhez rá kell kattintani a hitelesítés gombra külön
 
-![Fájlok hitelesítése](assets/hitelesites.png)
+![Fájlok hitelesítése](images/hitelesites.png)
 
 ## A jövőben
 
