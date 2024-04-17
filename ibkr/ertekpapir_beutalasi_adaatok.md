@@ -3,10 +3,10 @@
 Kérdezd meg az IB-t a fogadó adatokról.
 
 Ticket írása
-![Secure Message center menü](images/message_center.png)
-![Új ticket gomb](images/new_ticket.png)
-![Funds & Banking kategória](images/ticket_cat2.png)
-![Position Transfer téma](images/ticket_cat.png)
+![Secure Message center menü](../images/message_center.png)
+![Új ticket gomb](../images/new_ticket.png)
+![Funds & Banking kategória](../images/ticket_cat2.png)
+![Position Transfer téma](../images/ticket_cat.png)
 
 Subject: TBSZ transzfer  
 Account: Not account specific  

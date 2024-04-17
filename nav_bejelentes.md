@@ -4,7 +4,7 @@ _megj: Amennyiben még régen nyitottál IB számlát, és nem az Ireland hanem 
 
 A sikeres transzfer után az IB fog küldeni egy ilyen emailt, minden egyes TBSZ alszámlához:
 
-![TBSZ nyitás értesítő e-mail](images/funding%20notice.png)
+![TBSZ nyitás értesítő e-mail](../images/funding%20notice.png)
 Ennek a sablonnak van egy kitölthető változata, itt elérhető: [IB_TBSZ_agreement_editable.pdf](sablonok/IB_TBSZ_agreement_editable.pdf) (köszönjük RoBos-nak a PH-ról hogy kitölthetővé tette).
 
 A kitöltésén egy bonyolult dolog van, az **Elhelyezett pénzösszeg: / Deposited amount**.

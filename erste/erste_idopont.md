@@ -14,8 +14,8 @@ Javaslom hogy komolyabb fiókba, ne plázába foglalj. Legalább 5 nappal a devi
 
 Töltsd ki ezt a sablont:
 [Erste megbizas.docx](sablonok/Erste%20megbizas.docx)
-![Megbízás kitöltése](images/erste_megbizas_sablon.png)
+![Megbízás kitöltése](../images/erste_megbizas_sablon.png)
 
 Töltsd ki ezen kívül még ezt, hogy lemondasz a maradvány devizákról (0.29 EUR, stb.):
 [Erste maradvány.docx](sablonok/Erste%20maradvány.docx).
-![Maradvány nyilatkozat](images/erste_maradvany_sablon.png)
+![Maradvány nyilatkozat](../images/erste_maradvany_sablon.png)

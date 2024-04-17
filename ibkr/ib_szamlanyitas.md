@@ -5,7 +5,7 @@
     Ha nem tudod mi a Margin trading, javaslom a Cash account-ot, egyszerűbb, nincs kérdőív, biztonságosabb. Én EUR-t választottam Base Currency-nek, de választhatsz mást is.
 
     A weblapjuk egyébként elérhető magyarul, ha az ügyfélszolgálatnak írsz, ők is magyarul válaszolnak, de a kereskedési felület angol.
-    ![Számlanyitás gombra kattintás](images/nyitas.png)
+    ![Számlanyitás gombra kattintás](../images/nyitas.png)
 
 2. Tedd fel az IBKR mobil appot és kösd össze, hogy ne SMS-ben kapj kódot minden belépéskor. Majdnem minden account lopás SMS-en keresztül megy - a mobil app-os belépés sokkal biztonságosabb.
 
@@ -15,12 +15,12 @@
 
     Ha kész vagy kb. így kell kinéznie (a kék gombra kattintva a következő képen). Van egy Individual accountod + sok TBSZ a régi és új éveknek. Mindegy hány TBSZ-ed van, a havi díj nem változik.
 
-    ![Számlák listája a felhasználódón](images/account_selector.png)
+    ![Számlák listája a felhasználódón](../images/account_selector.png)
 
 5. Fizess be valamennyi pénzt az Individual számládra. Van rá 45 napod.
 
     Transfer & Pay / Transfer Funds. Kattints a kék gombra, a fenti ábra fogad.
 
-    ![Számlaválasztó gomb](images/selector_button.png)
+    ![Számlaválasztó gomb](../images/selector_button.png)
 
     Itt válaszd ki az Individual account-t, majd Deposit Funds. Nincs minimum megkötve, csak valamennyi pénznek be kell érkeznie.
