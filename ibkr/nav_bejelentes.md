@@ -67,9 +67,7 @@ Ami fontos:
 
 Nekem másnap érkezett egy visszaigazoló levél a tárhelyre, miszerint:
 
-```none
-A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 67/B. § (8) bekezdése szerinti bejelentését – melyet külföldi szolgáltatóval kötött új tartós befektetési számla nyitásáról tett – tudomásul vettem, további adatok megküldésére nincs szükség.
-```
+> A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 67/B. § (8) bekezdése szerinti bejelentését – melyet külföldi szolgáltatóval kötött új tartós befektetési számla nyitásáról tett – tudomásul vettem, további adatok megküldésére nincs szükség.
 
 ## A jövőben
 
