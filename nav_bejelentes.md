@@ -1,4 +1,4 @@
-# Nav jelentés
+# NAV jelentés
 
 _megj: Amennyiben még régen nyitottál IB számlát, és nem az Ireland hanem a "IBKR Central Europe"-höz tartozol, akkor ez a fejezet nem vonatkozik rád, nincsen semmi teendőd._
 
@@ -56,12 +56,20 @@ Ami fontos:
 
 - minden egyes TBSZ alszámlához külön bejelentés kell
 - minden bejelentésben legyen:
-  - szöveg
-  - sablon kitöltve PDF (hitelesítve)
-  - activity statement PDF (hitelesítve)
+    - szöveg
+    - sablon kitöltve PDF (hitelesítve)
+    - activity statement PDF (hitelesítve)
 - a csatolmányokat hitelesítsd majd a feltöltési felületen, mindegyikhez rá kell kattintani a hitelesítés gombra külön
 
 ![Fájlok hitelesítése](images/hitelesites.png)
+
+## NAV válasza
+
+Nekem másnap érkezett egy visszaigazoló levél a tárhelyre, miszerint:
+
+```none
+A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 67/B. § (8) bekezdése szerinti bejelentését – melyet külföldi szolgáltatóval kötött új tartós befektetési számla nyitásáról tett – tudomásul vettem, további adatok megküldésére nincs szükség.
+```
 
 ## A jövőben
 
