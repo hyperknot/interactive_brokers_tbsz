@@ -56,9 +56,9 @@ Ami fontos:
 
 - minden egyes TBSZ alszámlához külön bejelentés kell
 - minden bejelentésben legyen:
-    - szöveg
-    - sablon kitöltve PDF (hitelesítve)
-    - activity statement PDF (hitelesítve)
+  - szöveg
+  - sablon kitöltve PDF (hitelesítve)
+  - activity statement PDF (hitelesítve)
 - a csatolmányokat hitelesítsd majd a feltöltési felületen, mindegyikhez rá kell kattintani a hitelesítés gombra külön
 
 ![Fájlok hitelesítése](../images/hitelesites.png)
