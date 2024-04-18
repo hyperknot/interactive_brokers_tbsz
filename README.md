@@ -26,4 +26,4 @@ Ha valami nem helyes vagy kiegészítenéd: nyiss egy Issue-t.
 
 [10. Bekerülési árak - Cost Basis felvitele](ibkr/bekerulesi_arak.md)
 
-[11. NAV bejelentés](nav_bejelentes.md)
+[11. NAV bejelentés](ibkr/nav_bejelentes.md)
