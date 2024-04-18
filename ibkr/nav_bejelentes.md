@@ -34,8 +34,8 @@ Bejelenteni az [epapir.gov.hu](https://epapir.gov.hu/) felületen lehet.
 
 Témacsoport: Adóügy (NAV)  
 Ügytípus: Kérelem (Adóügy)  
-Címzett: NAV xxx Vármegyei Adó- és Vámigazgatósága ([itt egy térképes kereső](https://nav.gov.hu/igazgatosagok/igazgatosagok/igazgatosag-kereso))
-Hivatkozási szám: hagyd üresen
+Címzett: NAV xxx Vármegyei Adó- és Vámigazgatósága ([itt egy térképes kereső](https://nav.gov.hu/igazgatosagok/igazgatosagok/igazgatosag-kereso))  
+Hivatkozási szám: hagyd üresen  
 Előzmény iktatószáma: 1111111111 (10 db szám, bármi)  
 Tárgy: Külföldi szolgáltatónál nyitott TBSZ bejelentése
 
@@ -56,9 +56,9 @@ Ami fontos:
 
 - minden egyes TBSZ alszámlához külön bejelentés kell
 - minden bejelentésben legyen:
-  - szöveg
-  - sablon kitöltve PDF (hitelesítve)
-  - activity statement PDF (hitelesítve)
+    - szöveg
+    - sablon kitöltve PDF (hitelesítve)
+    - activity statement PDF (hitelesítve)
 - a csatolmányokat hitelesítsd majd a feltöltési felületen, mindegyikhez rá kell kattintani a hitelesítés gombra külön
 
 ![Fájlok hitelesítése](../images/hitelesites.png)
