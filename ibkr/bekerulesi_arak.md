@@ -13,10 +13,16 @@ Ezeket az árakat az Erste-nél a bezárás előtt kimentett **Készletinformác
    ![Menü a Tax Documents-hez](../images/tax%20reports.png)
 2. Itt a kék gombbal válaszd ki az egyik TBSZ számládat, majd kattints erre a gombra
 
-   ![Tax Reports oldal](../images/position%20transfer%20button.png)
+    ![Tax Reports oldal](../images/position%20transfer%20button.png)
 
 3. Válaszd ki az egyetlen dátumot
-4. A táblázatot töltsd ki egyenként, mint értékpapírra. Így kell kitölteni: - kattints az Add Lot-ra - Acquisition Date -> Erste-nél: **Készletnap** - Total Cost -> Erste-nél: **Bek. árf. érték** + **Bek. költség** összeadva - Végül Submit - Tipp: Én soronként Submit-oltam, mert különben volt hogy annyi ideig szerkesztettem hogy kiléptetett a rendszer. Lehet utólag módosítani.
-   ![Poziciók szerkesztése táblázat](../images/tablazat.png)
+4. A táblázatot töltsd ki egyenként, minden értékpapírra. Így kell kitölteni:
+
+    - kattints az Add Lot-ra
+    - Acquisition Date -> Erste-nél: **Készletnap**
+    - Total Cost -> Erste-nél: **Bek. árf. érték** + **Bek. költség** összeadva
+    - Végül Submit
+    - Tipp: Én soronként Submit-oltam, mert különben volt hogy annyi ideig szerkesztettem hogy kiléptetett a rendszer. Lehet utólag módosítani.
+      ![Poziciók szerkesztése táblázat](../images/tablazat.png)
 
 Ezt csináld meg az összes TBSZ számládra.
