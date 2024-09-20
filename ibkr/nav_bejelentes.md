@@ -1,7 +1,5 @@
 # NAV jelentés
 
-_megj: Amennyiben még régen nyitottál IB számlát, és nem az Ireland hanem a "IBKR Central Europe"-höz tartozol, akkor ez a fejezet nem vonatkozik rád, nincsen semmi teendőd._
-
 A sikeres transzfer után az IB fog küldeni egy ilyen emailt, minden egyes TBSZ alszámlához:
 
 ![TBSZ nyitás értesítő e-mail](../images/funding%20notice.png)
