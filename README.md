@@ -28,4 +28,4 @@ Ha valami nem helyes vagy kiegészítenéd: nyiss egy Issue-t.
 
 [11. NAV bejelentés](ibkr/nav_bejelentes.md)
 
-[+1 K&H kiegészítés](kh/kh_kiegeszites.md) 
+[+1 K&H kiegészítés](kh/kh_kiegeszites.md)
