@@ -7,10 +7,10 @@ Alapszabály, hogy ha 920 EUR / 1000 USD felett van egy devizából akkor azt me
 A díjjegyzék ide vonatkozó része 2024 februárban így nézett ki:
 
 <img src="../images/dijjegyzek_forint.png" alt="Forint utalási díj 0,45% minimum 500Ft, max 15.000 Ft" width="418" />
-
 <img src="../images/dijjegyzek_deviza.png" alt="Deviza utalási díj 0,45% minimum 2710 Ft, max 66.000 Ft + külső szolgáltatói díj" width="418" />
 
 Erste-n ezt a Deviza Ügyletek alatt találod, nem a Devizaváltás alatt (logikus 🙃).
+
 <img src="../images/deviza_ugyletek.png" alt="Deviza ügyletek gomb" width="218" />
 
 Ez után 3-4 nap szükséges ameddig a váltott devizák “Elszámolás alatti tételek”-nél 0-k lesznek. Ezt meg kell várnod a transzfer indítása előtt.
