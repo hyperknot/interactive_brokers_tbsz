@@ -1,4 +1,4 @@
-# K&H megjegyzések
+# K&H kiegészítés
 
 Alapvetően kövesd az Erste-s leírást, ezekkel a különbségekkel
 
