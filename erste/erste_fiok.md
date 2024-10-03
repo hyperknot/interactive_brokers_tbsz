@@ -8,7 +8,7 @@ Ezek után mehet az Erste fiók.
 
 A fiókban ha nem kérdezik, mond hogy szeretnéd teljesen meg is szüntetni a számládat. Ehhez adnak majd egy papírt, az a neve hogy "Értékpapírszámla felmondása".
 
-Ha tartozásod van a normál számládon, akkor azt rendezned kell banki átutalással. Ha nincs elég pénz a TBSZ számládon a transzferek fedezéséhez, akkor ezt szintén a normál számládnak kell majd fedezni. Jó ötlet vinni magaddal laptopot ha telefonról nem tudsz helyben utalni.
+Ha tartozásod van a normál számládon, akkor azt rendezned kell banki átutalással. Ha nincs elég pénz a TBSZ számládon a transzferek fedezéséhez, akkor ezt szintén a normál számládnak kell majd fedezni. Kérd meg az ügyintézőt, hogy ellenőrizzék hogy van-e elég pénz a számládon a transzferhez, mert ezt nem teszik meg automatikusan. Jó ötlet vinni magaddal laptopot ha telefonról nem tudsz helyben utalni.
 
 ## Aláírási karton
 
