@@ -12,7 +12,7 @@ Ha tartozásod van a normál számládon, akkor azt rendezned kell banki átutal
 
 ## Aláírási karton
 
-Fontos: ha nincs aláírási kartonod (kb. senkinek nincs aki interneten nyitott Randomnál), akkor ezt mond az ügyintézőnek. Nekem vissza kellett mennem 3 nap múlva mert addigra jöttek rá hogy nem volt kartonon és karton nélkül nem lehet megszűntetni.
+Fontos: ha nincs aláírási kartonod (kb. senkinek nincs aki interneten nyitott Randomnál), akkor ezt mond az ügyintézőnek. Nekem vissza kellett mennem 3 nap múlva mert addigra jöttek rá hogy nem volt kartonom és karton nélkül nem lehet megszűntetni.
 
 ## Telefon
 
