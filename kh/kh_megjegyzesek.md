@@ -3,9 +3,12 @@
 Alapvetően kövesd az Erste-s leírást, ezekkel a különbségekkel
 
 1. Belépés majd Fiókom / Kivonatok / Havi kivonatok, mentsd el az utolsó havi számlakivonatot alul
+
    <img src="../images/kh_kivonat.png" alt="" width="960" />
+
 2. Fiókom / Személyes adatoknál mentsd el a neved mellett található ügyfélszámot, nekem 388-al kezdődik.
 3. Az ERSTE-s részről töltsd ki a Befogadó nyilatkozatok részt, a Ceding Customer ID-hez írd be az előbb elmentett ügyfélszámodat.
+
    <img src="../images/kh_befogadó.png" alt="" width="562" />
 
 4. Nyomtasd ki a befogadó nyilatkozatokat alszámlánként és a deviza beutalási adatokat egy-egy PDF-be, ugyanúgy ahogy az Erste-s résznél van.
@@ -13,8 +16,11 @@ Alapvetően kövesd az Erste-s leírást, ezekkel a különbségekkel
    Kb. 200e Ft felett megéri több devizaként küldeni, alatta átváltani.
 
 Deviza transfer díjak (számlánként - devizánként)
+
 <img src="../images/kh_deviza.png" alt="" width="662" />
+
 Értékpapír transzfer díjak
+
 <img src="../assets/kh_ertekpapir_dijak.png" alt="" width="646" />
 
 ## K&H felmondási dokumentumok

@@ -10,17 +10,22 @@ Nekem az alábbiak szerint alakult:
 **5\. nap**: Visszamegyek aláíró kartont csinálni.
 
 **14\. nap**: IB küld egy ilyen emailt, nem kell vele semmit csinálni.
+
 <img src="../images/qualified.png" alt="Bejövő transzfer e-mail IB-től" width="622" />
 
 **15\. nap**: IB küld egy emailt NAV bejelentésről, lásd köv. fejezet.  
 Megjelennek az IB számlámon az értékpapírok. Devizák még sehol.
 
 **17\. nap**: Erste küld egy PDF-t az értékpapír tranzakciókról.
+
 <img src="../images/erste tranzakcio.png" alt="Erste transzfer végrehajtási e-mail" width="467" />
 
 **19\. nap**: HUF megérkezik IB-hez, küld róla 2 emailt:
+
 <img src="../images/HUF IB 1.png" alt="Deviza jóváírás a számlán e-mail IB-től" width="649" />
+
 valamint ha nem maradt már más, akkor egy ilyet:
+
 <img src="../images/IB TBSZ kész.png" alt="Bejövő transzfer befejeződött e-mail IB-től" width="622" />
 
 **22\. nap**: USD megérkezik IB-hez. Erről is jön 2 ugyanolyan email.

@@ -5,6 +5,7 @@
    Ha nem tudod mi a Margin trading, javaslom a Cash account-ot, egyszerűbb, nincs kérdőív, biztonságosabb. Én EUR-t választottam Base Currency-nek, de választhatsz mást is.
 
    A weblapjuk egyébként elérhető magyarul, ha az ügyfélszolgálatnak írsz, ők is magyarul válaszolnak, de a kereskedési felület angol.
+
    <img src="../images/nyitas.png" alt="Számlanyitás gombra kattintás" width="999" />
 
 2. Tedd fel az IBKR mobil appot és kösd össze, hogy ne SMS-ben kapj kódot minden belépéskor. Majdnem minden account lopás SMS-en keresztül megy - a mobil app-os belépés sokkal biztonságosabb.
