@@ -42,7 +42,3 @@ Átadás oka: transzfer
     - Alapmegállapodás felmondása papír
     - Kimenő értékpapír transzfer papír, TBSZ évenként külön kitöltve
     - Deviza beutalási adatok, devizánként külön
-
----
-
-https://prohardver.hu/tema/mibe_tegyem_a_megtakaritasaimat/hsz_116220-116220.html
