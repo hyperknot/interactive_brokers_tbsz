@@ -4,16 +4,16 @@ Miután lezárult a transzfer, az értékpapíroknak fel kell vinni a bekerülé
 
 Erről egy ilyen emailben tájékoztatnak:
 
-![E-mail a hiányzó bekerülési árakról](../images/cost%20basis.png#2x)
+<img src="../images/cost basis.png" alt="E-mail a hiányzó bekerülési árakról" width="627" />
 Ezeket az árakat az Erste-nél a bezárás előtt kimentett **Készletinformációk** dokumentumból láthatód. A 3. pontban írtam erről, ha ezt nem mentetted le akkor emailben vedd fel az Erste-vel a kapcsolatot, ugyanis transzfer után már nem enged belépni. (Engem legalábbis nem engedett.)
 
 Így kell csinálni:
 
 1. Performance & Reports / Tax Documents
-   ![Menü a Tax Documents-hez](../images/tax%20reports.png#2x)
+   <img src="../images/tax reports.png" alt="Menü a Tax Documents-hez" width="1121" />
 2. Itt a kék gombbal válaszd ki az egyik TBSZ számládat, majd kattints erre a gombra
 
-   ![Tax Reports oldal](../images/position%20transfer%20button.png#2x)
+   <img src="../images/position transfer button.png" alt="Tax Reports oldal" width="1420" />
 
 3. Válaszd ki az egyetlen dátumot
 4. A táblázatot töltsd ki egyenként, minden értékpapírra. Így kell kitölteni:
