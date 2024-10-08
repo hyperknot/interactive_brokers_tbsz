@@ -11,7 +11,7 @@ Alapvetően kövesd az Erste-s leírást, ezekkel a különbségekkel
 
  <img src="../images/kh_befogadó.png" alt="" width="562" />
 
-4. Nyomtasd ki a befogadó nyilatkozatokat alszámlánként és a deviza beutalási adatokat egy-egy PDF-be, ugyanúgy ahogy az Erste-s résznél van.
+4. Mentsd el a befogadó nyilatkozatokat alszámlánként és a deviza beutalási adatokat egy-egy PDF-be, ugyanúgy ahogy az Erste-s résznél van.
 5. Deviza konverziónál K&H 1%-on vált, így számold át hogy megéri-e átváltani és egy devizát utalni, vagy inkább külön-külön. \
    Kb. 200e Ft felett megéri több devizaként küldeni, alatta átváltani.
 
@@ -48,6 +48,7 @@ Átadás oka: transzfer
 
    - Alapmegállapodás felmondása papír
    - Kimenő értékpapír transzfer papír, TBSZ évenként külön kitöltve
+   - IBKR befogadó nyilatkozatok, évenként külön
    - Deviza beutalási adatok, devizánként külön
 
    Én ezt a sablont használtam (köszönettel Blaymoira-nak a PH fórumról):
