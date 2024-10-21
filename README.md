@@ -4,6 +4,8 @@ Ezt az összefoglalót több hét olvasás és email-váltás után készítette
 
 Ha valami nem helyes vagy kiegészítenéd: nyiss egy Issue-t.
 
+Ha kérdésed van, itt kérdezd meg: [Interactive Brokers társalgó](https://prohardver.hu/tema/interactive_brokers_tarsalgo/friss.html)
+
 ## Fejezetek
 
 [1. Interactive Brokers TBSZ számlanyitás](ibkr/ib_szamlanyitas.md)

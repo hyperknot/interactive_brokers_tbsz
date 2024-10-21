@@ -31,3 +31,7 @@ valamint ha nem maradt már más, akkor egy ilyet:
 **22\. nap**: USD megérkezik IB-hez. Erről is jön 2 ugyanolyan email.
 
 Ez után az Erste már nem engedett belépni online, a számlát lezárták.
+
+---
+
+[zsmb13 tapasztalatai erről](https://github.com/hyperknot/interactive_brokers_tbsz/issues/5)
